@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title> Basic Html and JavaScript </title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<script>
+		alert("Hello World")
+		</script>
+		<p><font color="green"> Hard to see green on white hmm?</font></p>
+		<br><font color="#0000FF"> I'm not sure what this hex code is."</font>
+	</body>
+</html>
